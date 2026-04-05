@@ -56,7 +56,7 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen, 
 
 **Ziel:** Aufbau einer produktionsreifen DevOps-Infrastruktur auf AWS – skalierbar, automatisiert und sicher.
 
-**Problem:** Manuelle und dezentrale Deployments, fehlende Standardisierung und keine Observability – jedes Team deployete eigenständig ohne einheitlichen Prozess, was zu Inkonsistenzen zwischen Umgebungen und fehlender Nachvollziehbarkeit führte.
+**Problem:** Manuelle und dezentrale Deployments, fehlende Standardisierung und keine Observability – jeder Entwickler deployete eigenständig ohne einheitlichen Prozess, was zu Inkonsistenzen zwischen Umgebungen und fehlender Nachvollziehbarkeit führte.
 
 **Definition of Done:**
 - ✅ Infrastruktur vollständig als Code (Terraform)
