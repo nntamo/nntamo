@@ -1,6 +1,6 @@
 # Hi, ich bin Cliff Fernandez Nguimeya 👋
 
-**MLOps & DevOps Engineer | Platform Engineer – Data Services**
+**MLOps & DevOps Engineer |  Data Services**
 
 Ich konzipiere, implementiere und betreibe Cloud-Infrastrukturen, CI/CD-Pipelines und Data Services auf Kubernetes in produktionsnahen Umgebungen – mit besonderem Fokus auf DevSecOps, Security-by-Design, Compliance, Secrets-Management, RBAC, Network Policies und Zero-Trust-Architekturen.
 Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen, Infrastructure as Code und Kubernetes-Orchestrierung sowie in der Entwicklung und Operationalisierung von Machine-Learning-Modellen und datengetriebenen Lösungen.
