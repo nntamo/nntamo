@@ -54,10 +54,7 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen u
 ---
 ##  Aktuelle Projekte
 
-| Projekt | Beschreibung | Stack |
-|--------|-------------|-------|
-| [Project-DevOps](https://github.com/nntamo) | DevOps-Infrastruktur auf AWS mit EKS, Terraform, Kustomize, vollständigem Monitoring-Stack und DevSecOps-Praktiken (AWS IAM, Secrets-Management, SonarQube) | AWS, EKS, Terraform, Prometheus, SonarQube |
-| [Jenkins-Pipeline-CICD](https://github.com/nntamo) | Sichere CI/CD-Pipeline mit Jenkins, automatisierten Build-, Test- und Deployment-Prozessen sowie DevSecOps-Integration (SonarQube, OIDC) | Jenkins, Docker, GitLab, SonarQube, OIDC |
+
 
 ---
 
