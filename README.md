@@ -52,7 +52,7 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen u
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
-##  Aktuelle Projekte
+##  Aktuelles Projekt
 
 **Ziel:** Aufbau einer produktionsreifen DevOps-Infrastruktur auf AWS – skalierbar, automatisiert und sicher.
 
@@ -67,9 +67,6 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen u
 - ✅ Reliability-Initiativen umgesetzt: High-Availability-Konzepte, Chaos- und Fault-Testing
 - ✅ Alle Deployments zentralisiert, reproduzierbar und dokumentiert
 
-**Technologie-Evaluation:** Kustomize, EKS, Prometheus-Stack
-
-**Stack:** AWS, EKS, Terraform, Kustomize, Prometheus, Grafana, Alertmanager, SonarQube, Checkov, OpenAPI, AWS IAM, RBAC
 ---
 
 ## Home Lab
