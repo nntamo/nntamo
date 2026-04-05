@@ -70,9 +70,6 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen u
 **Technologie-Evaluation:** Kustomize, EKS, Prometheus-Stack
 
 **Stack:** AWS, EKS, Terraform, Kustomize, Prometheus, Grafana, Alertmanager, SonarQube, Checkov, OpenAPI, AWS IAM, RBAC
-
-🔗 [GitHub](https://github.com/nntamo/Project-DevOps)
-
 ---
 
 ## Home Lab
