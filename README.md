@@ -54,7 +54,24 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen u
 ---
 ##  Aktuelle Projekte
 
+**Ziel:** Aufbau einer produktionsreifen DevOps-Infrastruktur auf AWS – skalierbar, automatisiert und sicher.
 
+**Problem:** Manuelle und dezentrale Deployments, fehlende Standardisierung und keine Observability – jedes Team deployete eigenständig ohne einheitlichen Prozess, was zu Inkonsistenzen zwischen Umgebungen und fehlender Nachvollziehbarkeit führte.
+
+**Definition of Done:**
+- ✅ Infrastruktur vollständig als Code (Terraform)
+- ✅ CI/CD-Pipeline automatisiert (Build, Test, Deploy) – kein manuelles Deployment mehr
+- ✅ Monitoring-Stack aktiv (Prometheus, Grafana, Alertmanager)
+- ✅ DevSecOps-Praktiken implementiert (AWS IAM, SonarQube, Secrets-Management, Checkov)
+- ✅ Kubernetes-Sicherheit: RBAC und Network Policies konfiguriert
+- ✅ Reliability-Initiativen umgesetzt: High-Availability-Konzepte, Chaos- und Fault-Testing
+- ✅ Alle Deployments zentralisiert, reproduzierbar und dokumentiert
+
+**Technologie-Evaluation:** Kustomize, EKS, Prometheus-Stack
+
+**Stack:** AWS, EKS, Terraform, Kustomize, Prometheus, Grafana, Alertmanager, SonarQube, Checkov, OpenAPI, AWS IAM, RBAC
+
+🔗 [GitHub](https://github.com/nntamo/Project-DevOps)
 
 ---
 
