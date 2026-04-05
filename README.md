@@ -65,7 +65,7 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen, 
 - ✅ DevSecOps-Praktiken implementiert (AWS IAM, SonarQube, Secrets-Management, Checkov)
 - ✅ Kubernetes-Sicherheit: RBAC und Network Policies konfiguriert
 - ✅ Reliability-Initiativen umgesetzt: High-Availability-Konzepte, Chaos- und Fault-Testing
-- ✅ Alle Deployments zentralisiert, reproduzierbar und dokumentiert
+- ✅ Alle Deployments automatisiert, zentralisiert, reproduzierbar und dokumentiert
 
 ---
 
