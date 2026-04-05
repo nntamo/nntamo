@@ -1,6 +1,6 @@
 # Hi, ich bin  Fernandez 👋
 
-**MLOps & DevOps Engineer | Platform Engineer – Data Services**
+**MLOps & DevOps Engineer | Data Services**
 
 Ich konzipiere, implementiere und betreibe Cloud-Infrastrukturen, CI/CD-Pipelines und Streaming Data Platform Services auf Kubernetes in produktionsnahen Umgebungen. 
 Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen und Infrastructure as Code.
