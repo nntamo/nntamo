@@ -74,9 +74,9 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, Dev(Sec)Ops-Architekturen
 Eigenständig aufgebaute lokale Infrastruktur:
 - **Proxmox VE** — Virtualisierungsumgebung zur Simulation realistischer Infrastrukturen
 - **K3s / Rancher Desktop** — Lokaler Kubernetes-Cluster
-- **Terraform + Ansible** — IaC mit Remote-State-Management (S3/DynamoDB)
+- **Terraform + Ansible** — IaC mit Remote-State-Management (S3)
 - **Prometheus + Grafana + Alertmanager** — Vollständiger Monitoring-Stack
-- **GitHub Actions + OIDC** — Sichere AWS-Authentifizierung in CI/CD-Pipelines
+- **GitHub Actions, GitLab + OIDC** — Sichere AWS-Authentifizierung in CI/CD-Pipelines
 - **Hetzner VPS** — Deployment mit Docker, Nginx, Let's Encrypt
 
 ---
