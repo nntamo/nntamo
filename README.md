@@ -1,11 +1,11 @@
-# Hi, ich bin  Fernandez 👋
+# Hi, ich bin Cliff Fernandez Nguimeya 👋
 
-**MLOps & DevOps Engineer | Data Services**
+**MLOps & DevOps Engineer | Platform Engineer – Data Services**
 
-Ich konzipiere, implementiere und betreibe Cloud-Infrastrukturen, CI/CD-Pipelines und Streaming Data Platform Services auf Kubernetes in produktionsnahen Umgebungen. 
-Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen und Infrastructure as Code.
+Ich konzipiere, implementiere und betreibe Cloud-Infrastrukturen, CI/CD-Pipelines und Data Services auf Kubernetes in produktionsnahen Umgebungen – mit besonderem Fokus auf DevSecOps, Security-by-Design, Compliance, Secrets-Management, RBAC, Network Policies und Zero-Trust-Architekturen.
+Praktische Erfahrung in End-to-End MLSecOps-Pipelines, DevSecOps-Architekturen, Infrastructure as Code und Kubernetes-Orchestrierung sowie in der Entwicklung und Operationalisierung von Machine-Learning-Modellen und datengetriebenen Lösungen.
 
--  Aktuell arbeite ich an: Aufbau einer Azure-basierten Plattform zur automatisierten Validierung und Modellierung von Ontologien und Wissensgraphen (Parashift, Databricks, SHACL, RDF)
+-  Aktuell arbeite ich an: Entwicklung und Betrieb einer semantischen Datenplattform auf Azure Databricks zur automatisierten Validierung von Ontologien und Wissensgraphen mittels SHACL/RDF
 -  Aktuell lerne ich: Red Hat OpenShift
 -  Frag mich über: Kubernetes, Docker/Podman, Terraform, CI/CD, MLOps, DevSecOps, Data Science/Machine Learning Engineering
 -  Erreichbar unter: github.com/nntamo
