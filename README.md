@@ -90,12 +90,9 @@ Eigenständig aufgebaute lokale Infrastruktur:
 
 ---
 
-##  GitHub Stats
+##  GitHub 
 
 ![nntamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nntamo&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nntamo&layout=compact&theme=default&hide_border=true)
-
 ---
 
 
