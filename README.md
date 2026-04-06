@@ -60,7 +60,7 @@ Praktische Erfahrung in End-to-End MLSecOps-Pipelines, Dev(Sec)Ops-Architekturen
 
 **Definition of Done:**
 - ✅ Infrastruktur vollständig als Code (Terraform)
-- ✅ CI/CD-Pipeline automatisiert (Build, Test, Deploy) – kein manuelles Deployment mehr
+- ✅ CI/CD-Pipeline automatisiert (Build, Test, scan, Deploy) – kein manuelles Deployment mehr
 - ✅ Monitoring-Stack aktiv (Prometheus, Grafana, Alertmanager)
 - ✅ DevSecOps-Praktiken implementiert (AWS IAM, SonarQube, Secrets-Management, Checkov)
 - ✅ Kubernetes-Sicherheit: RBAC und Network Policies konfiguriert
