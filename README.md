@@ -90,10 +90,6 @@ Eigenständig aufgebaute lokale Infrastruktur:
 
 ---
 
-##  GitHub 
-
-![nntamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nntamo&show_icons=true&theme=default&hide_border=true)
----
 
 
 *"Build it right, automate it well, secure it always."*
