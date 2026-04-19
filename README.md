@@ -67,10 +67,10 @@
 
 Eigenständig aufgebaute lokale Infrastruktur:
 - **Proxmox VE** — Virtualisierungsumgebung zur Simulation realistischer Infrastrukturen
-- **K3s / Rancher Desktop** — Lokaler Kubernetes-Cluster
-- **Terraform + Ansible** — IaC mit Remote-State-Management (S3)
-- **Prometheus + Grafana + Alertmanager** — Vollständiger Monitoring-Stack
-- **GitHub Actions, GitLab + OIDC** — Sichere AWS-Authentifizierung in CI/CD-Pipelines
+- **K8s / Rancher Desktop** — Lokaler Kubernetes-Cluster
+- **Terraform, Ansible** — IaC mit Remote-State-Management (S3)
+- **Prometheus, Grafana, Alertmanager** — Vollständiger Monitoring-Stack
+- **GitHub Actions, GitLab, OIDC** — Sichere AWS-Authentifizierung in CI/CD-Pipelines
 - **Hetzner VPS** — Deployment mit Docker, Nginx, Let's Encrypt
 
 ---
